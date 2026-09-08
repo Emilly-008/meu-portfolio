@@ -1,4 +1,4 @@
-Meu Perfil
+## Meu Perfil
 
 Sobre mim
 
@@ -12,7 +12,7 @@ Criei este repositório como parte da atividade de Design Profissional. A ideia 
 
 Neste projeto, vou registrar algumas das atividades, práticas e conhecimentos que estou desenvolvendo durante meu aprendizado.
 
-O que estou aprendendo
+O que estou aprendendo:
 
 - Git e GitHub
 - Controle de versões
