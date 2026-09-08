@@ -1,8 +1,8 @@
-Meu Perfil
+## Meu Perfil
 
 Sobre mim
 
-Olá! Meu nome é Emilly Oliveira e sou estudante da área de tecnologia. Tenho interesse em desenvolvimento de software e estou buscando aprender cada vez mais sobre programação e ferramentas utilizadas no mercado de tecnologia.
+Olá! Meu nome é Emilly Oliveira e sou estudante da área de tecnologia, e faço faculdade de Engenharia de Software.
 
 Atualmente, estou desenvolvendo meus conhecimentos em Python, além de estar aprendendo sobre Git e GitHub e como essas ferramentas podem ser utilizadas para organizar projetos, acompanhar meu desenvolvimento e trabalhar de forma colaborativa.
 
